@@ -1,0 +1,3 @@
+[submodule "jQuery-xcolor"]
+	path = jQuery-xcolor
+	url = git://github.com/infusion/jQuery-xcolor.git
